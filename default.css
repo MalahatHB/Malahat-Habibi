@@ -1,0 +1,34 @@
+header {
+    background-color: #16abc0;
+
+    border: dashed 2px #a9013f;
+    border-radius: 20px;
+
+    text-align: center;
+}
+
+header nav {
+    background: #dc889f;
+}
+
+p {
+    border-radius: 10px;
+    border: dotted 2px #005223;
+    background: #a1fad5;
+}
+
+h2 {
+    background: #a10944;
+}
+
+h3 {
+    background: #a1090e;
+    margin-right: 500px;
+}
+
+img {
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
