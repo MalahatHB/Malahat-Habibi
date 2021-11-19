@@ -1,0 +1,77 @@
+header {
+    color: #ea590b;
+    text-align: center;
+}
+
+header nav {
+    color: #116892;
+    text-align: left;
+    border: dashed 2px #a9013f;
+    border-radius: 20px;
+}
+
+p {
+    border-radius: 10px;
+    border: dotted 2px #005223;
+    background: #faf3a1;
+    font-size: 17px;
+}
+
+h2 {
+    color: #a10944;
+}
+
+h3 {
+    color: #013954;
+}
+
+img {
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+video {
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+}
+
+table, td, th {
+    border: 2px solid #a14309;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.website-body {
+    display: flex;
+}
+
+.first-section {
+    flex: none;
+    width: 23%;
+    border: 1px solid black;
+    margin: 4px;
+    padding: 4px;
+}
+
+.second-section {
+    flex: none;
+    width: 50%;
+    border: 1px solid black;
+    margin: 4px;
+    padding: 4px;
+}
+
+
+.third-section {
+    flex: none;
+    width: 23%;
+    border: 1px solid black;
+    margin: 4px;
+    padding: 4px;
+}
